@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace DanielAriasHoteleriaMascotasRep
 {
-    public class Persona
+    public class Rol
     {
-        private int id;
-        private String sexo;
-        private String nombre;
-        private String apellido;
-        private String rut;
-
+        private String nombreRol;
+        private int idRol;
     }
 }

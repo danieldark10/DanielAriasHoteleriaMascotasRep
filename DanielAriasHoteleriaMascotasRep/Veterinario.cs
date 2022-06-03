@@ -8,5 +8,7 @@ namespace DanielAriasHoteleriaMascotasRep
 {
     internal class Veterinario
     {
+        private int idVeterinario;
+        private String Especialidad;
     }
 }

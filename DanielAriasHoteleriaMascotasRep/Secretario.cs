@@ -8,5 +8,6 @@ namespace DanielAriasHoteleriaMascotasRep
 {
     internal class Secretario
     {
+        private int idSecretario;
     }
 }

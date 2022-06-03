@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace DanielAriasHoteleriaMascotasRep
 {
-    internal class Mascota
+    public class Mascota
     {
+        private int idMascota;
+        private String chip;
+        private String raza;
+        private String tipoDeAnimal;
+        private String nombreAnimal;
+        private String personalidad;
     }
 }
