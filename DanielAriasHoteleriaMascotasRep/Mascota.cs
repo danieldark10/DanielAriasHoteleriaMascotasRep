@@ -9,10 +9,11 @@ namespace DanielAriasHoteleriaMascotasRep
     public class Mascota
     {
         private int idMascota;
+        private String nombreAnimal;
+        private int edad;
         private String chip;
         private String raza;
         private String tipoDeAnimal;
-        private String nombreAnimal;
         private String personalidad;
     }
 }

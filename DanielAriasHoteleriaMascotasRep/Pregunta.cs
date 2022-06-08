@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace DanielAriasHoteleriaMascotasRep
 {
-    internal class Cliente
+    internal class Pregunta
     {
-        private int idCliente;
-        private int numeroDePagos;
+        private int IdPregunta;
+        private String TextoPregunta;
+        
     }
 }

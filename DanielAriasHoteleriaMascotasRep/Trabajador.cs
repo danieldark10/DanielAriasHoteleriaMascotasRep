@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace DanielAriasHoteleriaMascotasRep
 {
-    internal class Secretario
+    internal class Trabajador
     {
-        private int idSecretario;
+        private int idTrabajador;
+        private DateOnly fechaIngreso;
+        private String Area;
+
     }
 }

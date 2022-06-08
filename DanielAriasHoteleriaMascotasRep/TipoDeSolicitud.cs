@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DanielAriasHoteleriaMascotasRep
 {
-    internal class Cliente
+    internal class TipoDeSolicitud
     {
-        private int idCliente;
-        private int numeroDePagos;
+        private int IdtipoDeSolicitud;
+        private String nombreSolicitud;
     }
 }

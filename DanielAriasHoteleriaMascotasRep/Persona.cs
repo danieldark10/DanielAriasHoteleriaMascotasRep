@@ -13,6 +13,9 @@ namespace DanielAriasHoteleriaMascotasRep
         private String nombre;
         private String apellido;
         private String rut;
+        private String Email;
+        private String direccion;
+        private int telefono;
 
     }
 }

@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace DanielAriasHoteleriaMascotasRep
 {
-    internal class Veterinario
+    internal class Usuario
     {
-        private int idVeterinario;
-        private String Especialidad;
+        private int IdUsuario;
+        private String nombreUsuario;
+        private String contraseña;
     }
 }
